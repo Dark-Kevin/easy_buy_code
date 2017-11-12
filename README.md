@@ -1,1 +1,1 @@
-# easy_buy_code
+<html></html>
